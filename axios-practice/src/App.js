@@ -8,8 +8,8 @@ const data = createContext();
 const data1 = createContext();
 
 function App() {
-  const name ="Akira"
-  const gender="Female"
+  const name ="Ashu"
+  const gender="Male"
   return (
     <div className="App">
       {/* <Axiosget /> */}
