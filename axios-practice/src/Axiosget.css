@@ -1,0 +1,19 @@
+table{
+    border-collapse: collapse;
+    width: 80%;
+    margin-left: 120px;
+  }
+  tr{
+    height: 50px;
+  }
+  td{
+    padding: 2px;
+    margin: 4px;
+    text-align: center;
+  }
+  h2{
+    text-align: center;
+  }
+  tr:hover{
+    background-color: aqua;
+  }
